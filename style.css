@@ -159,8 +159,9 @@ Media Quires
     grid-template-columns: repeat(1,1fr);
     justify-items: center;
     
+    
   }
-  .blog{
+  .blog , .courses{
    
     align-items: center;
     
